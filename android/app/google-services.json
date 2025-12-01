@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642690712743",
+    "project_id": "edumeet-1c624",
+    "storage_bucket": "edumeet-1c624.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642690712743:android:b31c6d6ce1f071ea2ec782",
+        "android_client_info": {
+          "package_name": "com.yum.meetify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAln4Uwi1CGHHWUd01bMWg-vLXriM0pue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

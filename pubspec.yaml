@@ -1,0 +1,34 @@
+name: meetify
+description: "A smart and seamless app for hosting and joining classes through instant video links."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.1.1
+  cloud_firestore: ^6.0.2
+#  jitsi_meet: ^4.0.0
+  firebase_auth: ^6.1.1
+  google_sign_in: ^7.2.0
+  intl: ^0.20.2
+  jitsi_meet_flutter_sdk: ^11.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  build_runner: ^2.9.0
+  json_serializable: ^6.11.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
