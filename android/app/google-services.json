@@ -12,7 +12,20 @@
           "package_name": "com.yum.meetify"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "642690712743-0otj5s30l6ge4a1blddsimi5p392i94r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yum.meetify",
+            "certificate_hash": "b160c0436b8de0ee222782a463118d4666de6f81"
+          }
+        },
+        {
+          "client_id": "642690712743-4ia54fvnpj3a3ruism6vhk1a1l7dgjm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAln4Uwi1CGHHWUd01bMWg-vLXriM0pue0"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642690712743-4ia54fvnpj3a3ruism6vhk1a1l7dgjm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
